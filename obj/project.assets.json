@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SALIM\\Desktop\\evenAndOddChecker\\evenAndOddChecker.csproj",
+      "projectUniqueName": "C:\\Users\\SALIM\\Desktop\\C#\\evenAndOddChecker\\evenAndOddChecker.csproj",
       "projectName": "evenAndOddChecker",
-      "projectPath": "C:\\Users\\SALIM\\Desktop\\evenAndOddChecker\\evenAndOddChecker.csproj",
+      "projectPath": "C:\\Users\\SALIM\\Desktop\\C#\\evenAndOddChecker\\evenAndOddChecker.csproj",
       "packagesPath": "C:\\Users\\SALIM\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SALIM\\Desktop\\evenAndOddChecker\\obj\\",
+      "outputPath": "C:\\Users\\SALIM\\Desktop\\C#\\evenAndOddChecker\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SALIM\\AppData\\Roaming\\NuGet\\NuGet.Config"

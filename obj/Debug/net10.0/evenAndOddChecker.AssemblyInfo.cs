@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("evenAndOddChecker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1271b81942c4afe6b387ec46e06c6a651a5a036")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d52d8074308a88282fc284e66f14b2e212773de9")]
 [assembly: System.Reflection.AssemblyProductAttribute("evenAndOddChecker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("evenAndOddChecker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

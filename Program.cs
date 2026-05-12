@@ -17,8 +17,7 @@ class Program
             {
                 CheckEvenOdd(number);
 
-                // OPTIONAL: Save to database
-                // SaveToDatabase(number);
+               
             }
             else
             {
@@ -51,7 +50,6 @@ class Program
         }
     }
 
-    // DATABASE METHOD (we'll connect later)
     static void SaveToDatabase(int number)
     {
         Console.WriteLine("Saved to database (placeholder)");
