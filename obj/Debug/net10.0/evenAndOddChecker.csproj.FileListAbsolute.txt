@@ -1,0 +1,15 @@
+C:\Users\SALIM\Desktop\evenAndOddChecker\bin\Debug\net10.0\evenAndOddChecker.exe
+C:\Users\SALIM\Desktop\evenAndOddChecker\bin\Debug\net10.0\evenAndOddChecker.deps.json
+C:\Users\SALIM\Desktop\evenAndOddChecker\bin\Debug\net10.0\evenAndOddChecker.runtimeconfig.json
+C:\Users\SALIM\Desktop\evenAndOddChecker\bin\Debug\net10.0\evenAndOddChecker.dll
+C:\Users\SALIM\Desktop\evenAndOddChecker\bin\Debug\net10.0\evenAndOddChecker.pdb
+C:\Users\SALIM\Desktop\evenAndOddChecker\obj\Debug\net10.0\evenAndOddChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SALIM\Desktop\evenAndOddChecker\obj\Debug\net10.0\evenAndOddChecker.AssemblyInfoInputs.cache
+C:\Users\SALIM\Desktop\evenAndOddChecker\obj\Debug\net10.0\evenAndOddChecker.AssemblyInfo.cs
+C:\Users\SALIM\Desktop\evenAndOddChecker\obj\Debug\net10.0\evenAndOddChecker.csproj.CoreCompileInputs.cache
+C:\Users\SALIM\Desktop\evenAndOddChecker\obj\Debug\net10.0\evenAndOddChecker.sourcelink.json
+C:\Users\SALIM\Desktop\evenAndOddChecker\obj\Debug\net10.0\evenAndOddChecker.dll
+C:\Users\SALIM\Desktop\evenAndOddChecker\obj\Debug\net10.0\refint\evenAndOddChecker.dll
+C:\Users\SALIM\Desktop\evenAndOddChecker\obj\Debug\net10.0\evenAndOddChecker.pdb
+C:\Users\SALIM\Desktop\evenAndOddChecker\obj\Debug\net10.0\evenAndOddChecker.genruntimeconfig.cache
+C:\Users\SALIM\Desktop\evenAndOddChecker\obj\Debug\net10.0\ref\evenAndOddChecker.dll
